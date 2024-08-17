@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <pthread.h>
 #include <semaphore.h>
-#include <unistd.h>
 
 #define NUM_FILOSOFOS 5
 
